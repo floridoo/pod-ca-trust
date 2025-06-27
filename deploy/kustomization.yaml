@@ -42,5 +42,5 @@ vars:
 
 images:
   - name: webhook-image
-    newName: mesosphere/pod-ca-trust
+    newName: floridoo/pod-ca-trust
     newTag: v0.2.0
