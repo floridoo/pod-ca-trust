@@ -13,7 +13,7 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 
 resources:
-  - git@github.com:floridoo/pod-ca-trust.git//deploy?ref=v0.3.0 # <-- set the version here
+  - git@github.com:floridoo/pod-ca-trust.git//deploy?ref=v0.4.0 # <-- set the version here
 
 # configure the installation namespace
 namespace: pod-ca-trust

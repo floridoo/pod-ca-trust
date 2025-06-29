@@ -43,4 +43,4 @@ vars:
 images:
   - name: webhook-image
     newName: ghcr.io/floridoo/pod-ca-trust
-    newTag: v0.3.0
+    newTag: v0.4.0
